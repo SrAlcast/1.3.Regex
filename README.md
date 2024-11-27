@@ -35,16 +35,8 @@ En este laboratorio aprenderás cómo usar **expresiones regulares** para buscar
 
 ## 🚀 Cómo Ejecutarlo
 
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/tu_usuario/laboratorio-modulo1-leccion02-Regex.git
-   ```
-
-2. Abre el archivo `.ipynb` con Jupyter Notebook:
-   ```bash
-   jupyter notebook laboratorio-modulo1-leccion02-Regex.ipynb
-   ```
-
+1. Clona este repositorio
+2. Abre el archivo `.ipynb` con Jupyter Notebook
 3. Sigue las instrucciones y ejemplos del cuaderno para aprender más sobre expresiones regulares.
 
 ## 🌟 ¡Contribuciones Bienvenidas!
